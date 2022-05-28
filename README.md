@@ -11,6 +11,8 @@ team names
 
 this is as template for front end amazon  web site 
 
+this is iTi javascript course project
+
 we used html css javascript pure
 
 used aditional font Awosem and html5 css3
