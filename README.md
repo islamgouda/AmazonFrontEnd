@@ -10,6 +10,9 @@ team names
 
 
 this is as template for front end amazon  web site 
+
 we used html css javascript pure
+
 used aditional font Awosem and html5 css3
+
 to start project run c.html file this is the Home page
